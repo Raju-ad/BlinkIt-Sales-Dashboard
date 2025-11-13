@@ -17,7 +17,7 @@ The dashboard helps identify sales trends, performance drivers, and business ins
 ---
 
 ## Dashboard Preview
-![Blinkit Sales Dashboard](dashboard-image.png)
+![Blinkit Sales Dashboard](dashboard%20image.png)
 
 ---
 
